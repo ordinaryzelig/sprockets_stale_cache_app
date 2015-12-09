@@ -1,0 +1,2 @@
+class SureController < ApplicationController
+end
